@@ -1,0 +1,8 @@
+2
+0
+Ma nhan vien la: 
+ten nhan vien: 
+Tuoi nhan vien: 0
+Ma nhan vien la: 
+ten nhan vien: 
+Tuoi nhan vien: 4506034
